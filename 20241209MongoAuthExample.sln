@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20241209MongoAuthExample", "20241209MongoAuthExample\20241209MongoAuthExample.csproj", "{B32CB881-0031-443E-9C7A-87F31338CD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32CB881-0031-443E-9C7A-87F31338CD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32CB881-0031-443E-9C7A-87F31338CD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32CB881-0031-443E-9C7A-87F31338CD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32CB881-0031-443E-9C7A-87F31338CD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
